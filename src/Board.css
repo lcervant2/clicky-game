@@ -1,0 +1,5 @@
+.board {
+    display: grid;
+    grid-row-gap: 24px;
+    grid-template-columns: auto auto auto auto;
+}
